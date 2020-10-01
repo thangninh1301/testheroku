@@ -1,0 +1,6 @@
+{
+  "PORT": 4000,
+  "MONGO_URL": "mongodb+srv://admin:020206@cluster0-cextx.mongodb.net/Forum?retryWrites=true&w=majority",
+  "ACCESS_TOKEN_EXPIRE_TIME": "365d",
+  "SECRET_ACCESS_TOKEN_KEY":"vcY1Rj}s.e}yqFb5e"
+}
